@@ -35,11 +35,9 @@ I'm a Communications and Software Engineering graduate interested in building pr
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=joodshatnawi&theme=material-palenight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=joodshatnawi&theme=material-palenight&hide_border=true)
+---
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=joodshatnawi&layout=compact&theme=material-palenight&hide_border=true)
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joodshatnawi&theme=tokyonight&no-frame=true&no-bg=true)
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joodshatnawi&style=flat&color=9B72CF)
